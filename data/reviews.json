@@ -3,6 +3,126 @@
   "businessName": "Pet Spa & Grooming",
   "rating": 4.8,
   "reviewCount": 48,
-  "reviews": [],
-  "note": "No individual review text was available (missing Google place id or API key). Use the rating and count above."
+  "note": "Real Google reviews, transcribed manually from the business's Google listing. Google's copied text does not carry the per-review star value, so featured testimonials are assumed 5-star based on their clearly positive wording. Two negative/irrelevant reviews from the listing were left out of the marketing widget. Edit freely.",
+  "reviews": [
+    {
+      "author": "Stephen Coggio",
+      "rating": 5,
+      "time": "2 weeks ago",
+      "meta": "Local Guide · 52 reviews",
+      "text": "Been taking my two Field Golden Retrievers to Alberta here for many years now. I can't recommend a group of people more than this bunch. They are gentle, they love animals, and they truly care deeply about the product they put out. I wouldn't trust my pooches with anyone else or any other company."
+    },
+    {
+      "author": "Rhonda Leggett Lozell",
+      "rating": 5,
+      "time": "6 months ago",
+      "meta": "3 reviews",
+      "text": "Alberta has been grooming our Golden Retriever Cooper and she does an awesome job and he looks so good. We get a lot of compliments from people how beautiful he looks. Cooper loves her & she is so gentle & cares about him so much. Highly recommended."
+    },
+    {
+      "author": "Jennifer Dulin",
+      "rating": 5,
+      "time": "a year ago",
+      "meta": "3 reviews",
+      "text": "Mindy and her team are fantastic! They take such great care of my Goldendoodle, and she always leaves looking gorgeous and perfectly coiffed (and smelling wonderful!). The team there is always friendly."
+    },
+    {
+      "author": "Chris O'Grady",
+      "rating": 5,
+      "time": "a year ago",
+      "meta": "Local Guide · 21 reviews",
+      "text": "The Best! Jennifer and her team are kind, caring, and thoughtful. Thank you very much for taking care of our baby. Would highly recommend to others!!!"
+    },
+    {
+      "author": "Tyler Pashby",
+      "rating": 5,
+      "time": "10 months ago",
+      "meta": "Local Guide · 10 reviews",
+      "text": "THE BEST! Yes they get all the normal review accolades but you can't convey how nice, thoughtful and truly caring they are of my best friend!"
+    },
+    {
+      "author": "Holly Willard",
+      "rating": 5,
+      "time": "9 months ago",
+      "meta": "2 reviews",
+      "text": "Mindy is amazing, always happy when I leave. All the employees are so friendly. Highly recommend."
+    },
+    {
+      "author": "Kris Chalke",
+      "rating": 5,
+      "time": "2 weeks ago",
+      "meta": "Local Guide · 41 reviews",
+      "text": "The people are very nice. My dog seemed happy, and she looked well groomed."
+    },
+    {
+      "author": "LEE T",
+      "rating": 5,
+      "time": "11 years ago",
+      "meta": "3 reviews",
+      "text": "Best place ever! Sheila grooms my Bichon Norman every 5 weeks. She does an amazing job. He loves it when I say, \"Want to go see Sheila?\" The attention to detail and the love she has for animals shows and that makes for a great groomer. So glad to have found her!"
+    },
+    {
+      "author": "Charles Keating",
+      "rating": 5,
+      "time": "7 years ago",
+      "meta": "Local Guide · 18 reviews",
+      "text": "Jen did an excellent job grooming my Golden Retriever! I am very pleased with how everything turned out and will definitely be going back when my dog is due for another haircut. Thank you so much Jen! Haddie looks great!"
+    },
+    {
+      "author": "Alyssa Benoit",
+      "rating": 5,
+      "time": "6 years ago",
+      "meta": "1 review",
+      "text": "I have been bringing my golden Bentley to see Jen since he was 6 months old. Bentley feels comfortable and trusts Jen, which is a big deal to me! Jen is very knowledgeable and great at what she does. I can always count on Bentley looking and feeling better after a visit to Pet Spa & Grooming!"
+    },
+    {
+      "author": "Jamie Dimond",
+      "rating": 5,
+      "time": "8 years ago",
+      "meta": "Local Guide · 7 reviews",
+      "text": "We just had our Lhasa Apso groomed by Shiela. She squeezed us in right away when his usual groomer was not available. He had developed some large mats and needed special attention. We are grateful Shiela was able to take care of him. He looks so handsome! We will be back to the Pet Spa."
+    },
+    {
+      "author": "Susan Petrie",
+      "rating": 5,
+      "time": "11 years ago",
+      "meta": "6 reviews",
+      "text": "My cat Nikko loves visiting Sheila at Pet Spa & Grooming. She is always so patient and he comes home smelling like a rose. She does such a great job making him feel like he is the most special cat to visit her."
+    },
+    {
+      "author": "Hope Dorsey",
+      "rating": 5,
+      "time": "2 years ago",
+      "meta": "Local Guide · 15 reviews",
+      "text": "Repeat customer and always impressed. 5-stars for beautiful cut, nails and happy dog after!"
+    },
+    {
+      "author": "Jen Daudelin",
+      "rating": 5,
+      "time": "3 years ago",
+      "meta": "4 reviews",
+      "text": "Jen does an amazing job grooming Daisy. She truly loves what she does and it shows. Highly recommend!!"
+    },
+    {
+      "author": "Kathi Echelberger",
+      "rating": 5,
+      "time": "5 years ago",
+      "meta": "4 reviews",
+      "text": "Jen always does a fabulous job with our poodles! Prices are more than fair and communication is great also."
+    },
+    {
+      "author": "Chitra",
+      "rating": 5,
+      "time": "a year ago",
+      "meta": "Local Guide · 13 reviews",
+      "text": "Best grooming experience ever! I have a tiny 5 lb Yorkie and we've had the worst luck with grooming at other places. Pet Spa & Grooming finally got it right."
+    },
+    {
+      "author": "Lexy LaCross",
+      "rating": 5,
+      "time": "9 years ago",
+      "meta": "3 reviews",
+      "text": "Sheila does fabulous work! She really is a cat whisperer. Sheila worked with our schedules to get our cat in and was very friendly. Our Persian looked wonderful."
+    }
+  ]
 }

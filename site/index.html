@@ -306,24 +306,28 @@
             </div>
 
             <div class="review-copy">
-              <h3>A 4.8-star track record you can trust.</h3>
+              <h3>Real words from real pet parents.</h3>
               <p>
-                Across 48 reviews, pet owners consistently rate Pet Spa &amp; Grooming
-                among the best in the area. Want to read what neighbors are saying, or
-                add your own? Head over to our Google profile.
+                These are genuine Google reviews from the Pet Spa &amp; Grooming
+                community. Read more — or add your own — on the Google profile.
               </p>
-
-              <div class="review-bars" aria-hidden="true">
-                <div class="bar-row"><span class="lbl">5 ★</span><span class="bar"><span data-fill="86"></span></span></div>
-                <div class="bar-row"><span class="lbl">4 ★</span><span class="bar"><span data-fill="9"></span></span></div>
-                <div class="bar-row"><span class="lbl">3 ★</span><span class="bar"><span data-fill="3"></span></span></div>
-                <div class="bar-row"><span class="lbl">2 ★</span><span class="bar"><span data-fill="1"></span></span></div>
-                <div class="bar-row"><span class="lbl">1 ★</span><span class="bar"><span data-fill="1"></span></span></div>
-              </div>
-
               <a class="btn btn--primary" href="https://www.google.com/maps/place/Pet+Spa+%26+Grooming/data=!4m7!3m6!1s0x4cca70b0e0961d47:0xf0574420ff08d3d2!8m2!3d44.5076031!4d-73.1484285!16s%2Fg%2F1tdjwmv8!19sChIJRx2W4LBwykwR0tMI_yBEV_A" target="_blank" rel="noopener">
                 Read &amp; write reviews on Google
               </a>
+            </div>
+          </div>
+
+          <div class="reviews-carousel reveal" data-delay="1">
+            <div class="reviews-track" id="reviewsTrack" role="list" aria-label="Customer reviews">
+              <!-- review cards injected by script.js from reviews.js -->
+            </div>
+            <div class="carousel-controls">
+              <button class="carousel-btn" id="revPrev" aria-label="Previous reviews" type="button">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
+              </button>
+              <button class="carousel-btn" id="revNext" aria-label="More reviews" type="button">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
+              </button>
             </div>
           </div>
         </div>
@@ -408,6 +412,7 @@
       </div>
     </footer>
 
+    <script src="reviews.js" defer></script>
     <script src="script.js" defer></script>
   </body>
 </html>
